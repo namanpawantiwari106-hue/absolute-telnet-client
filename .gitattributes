@@ -1,0 +1,12 @@
+# Project-specific overrides
+*.woff binary
+*.htm linguist-vendored
+
+*.ico binary
+
+**/*.py linguist-detectable
+
+*.map linguist-generated
+
+*.yml linguist-detectable=false  
+# eof 8ed635b3
